@@ -3,6 +3,7 @@
 Building software for crypto, with a focus on the XRP Ledger. Learning in public with Python.
 
 🌐 Website: [b34n5x.github.io](https://b34n5x.github.io)
+📱 Installable as an app (Add to Home Screen) from the site, free, no app store.
 
 ## 🛠️ Projects
 

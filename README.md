@@ -2,6 +2,8 @@
 
 Building software for crypto, with a focus on the XRP Ledger. TAFE IT student in Sydney, learning in public with Python.
 
+🌐 Website: [b34n5x.github.io](https://b34n5x.github.io)
+
 ## 🛠️ Projects
 
 ### [XRPL Balance Checker](https://github.com/B34N5x/xrpl-balance-checker)

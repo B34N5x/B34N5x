@@ -20,6 +20,10 @@ A small Python script that looks up an XRP balance on the XRP Ledger. Testnet by
 ▶️ Try it live in your browser: [b34n5x.github.io/checker](https://b34n5x.github.io/checker/) (Testnet and Mainnet, read-only).
 
 
+### [XRPL Will (Testnet)](https://xrpl-will.pages.dev)
+A free tool for planning escrows to heirs using the XRP Ledger's native escrow rules. **Testnet only: test XRP, no real XRP, Mainnet disabled.** Non-custodial, not legal advice.
+
+
 ### Learning
 Studying the XRPL through EasyA and other sources.
 

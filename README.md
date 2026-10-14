@@ -15,7 +15,7 @@ Active development. Multiple XRPL tooling mechanisms are in progress across seve
 
 
 ### [XRPL Balance Checker](https://github.com/B34N5x/xrpl-balance-checker)
-A small Python script that looks up an XRP balance on the XRP Ledger Testnet. Built with xrpl-py, and read-only, so it never uses keys or seeds.
+A small Python script that looks up an XRP balance on the XRP Ledger. Testnet by default, with an opt-in `--mainnet` option. Built with xrpl-py, and read-only, so it never uses keys or seeds.
 
 ▶️ Try it live in your browser: [b34n5x.github.io/checker](https://b34n5x.github.io/checker/) (Testnet and Mainnet, read-only).
 
